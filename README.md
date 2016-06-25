@@ -9,4 +9,4 @@ handling increased business volume.
 We are going to automate aspects of the business. 
 
 #This project
-Is part of a www.needpoweredchange/horizons initiative to discover the role of "Developer in Analysis"
+Is part of a www.needpoweredchange.com/horizons initiative to discover the role of "Developer in Analysis"
