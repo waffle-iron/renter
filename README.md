@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/needpoweredchg/renter.png?label=ready&title=Ready)](https://waffle.io/needpoweredchg/renter)
 # renter
 15 years ago, Howard Norton formed his furniture rental business in a small rural town in the western
 USA. Howard operates an efficient, family run company that focuses on customer service and
